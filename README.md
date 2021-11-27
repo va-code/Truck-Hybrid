@@ -1,2 +1,2 @@
 # Truck-Hybrid
-I'm working on a design to retrofit an older truck with a hybrid system
+I'm working on a design to retrofit a vehicle with a hybrid system.
